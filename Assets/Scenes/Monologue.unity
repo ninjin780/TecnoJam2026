@@ -1015,6 +1015,13 @@ MonoBehaviour:
   - I think somethings I'll never say
   - Like who uses typewriters anyways?
   typingSpeed: 0.05
+  frequency: 2
+  maxPitch: 1.04
+  minPitch: 0.96
+  maxVol: 1
+  minVol: 0.9
+  audioClip: {fileID: 8300000, guid: 14e71d46fde9661489f33bf5ffa32da8, type: 3}
+  StopAudioSource: 1
 --- !u!4 &2048271746
 Transform:
   m_ObjectHideFlags: 0

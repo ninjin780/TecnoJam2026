@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 
 public class DialogueManager : MonoBehaviour
 {
+    [Header("Dialogue Param")]
     [SerializeField] private GameObject DialoguePanel;
     [SerializeField] private TMP_Text dialogueText;
 
@@ -16,9 +17,25 @@ public class DialogueManager : MonoBehaviour
 
     InputAction click;
 
+    [Header("Sound Param")]
+    [Range(1, 5)]
+    [SerializeField] private int frequency = 2;
+
+    [SerializeField] private float maxPitch = 1.05f;
+    [SerializeField] private float minPitch = 0.95f;
+
+    [SerializeField] private float maxVol = 1.0f;
+    [SerializeField] private float minVol = 0.9f;
+    
+    [SerializeField] private AudioClip audioClip;
+    private AudioSource audioSource;
+
+    public bool StopAudioSource = false; // Hace que no se superponga el sonido
+
     private void Awake()
     {
         click = InputSystem.actions.FindAction("Dialogue/ClickAnywhere");
+        audioSource = gameObject.AddComponent<AudioSource>();
     }
 
     private void Start()
@@ -37,7 +54,7 @@ public class DialogueManager : MonoBehaviour
             else
             {
                 StopAllCoroutines();
-                dialogueText.text = dialogueLines[currentIndex];
+                if (currentIndex < dialogueLines.Length) dialogueText.text = dialogueLines[currentIndex];
             }
 
             if (dialogueFinished)
@@ -57,10 +74,15 @@ public class DialogueManager : MonoBehaviour
     private IEnumerator TypeLine()
     {
         dialogueText.text = string.Empty;
+        int amountOfCharacters = 0;
 
         foreach (char character in dialogueLines[currentIndex])
         {
             dialogueText.text += character;
+
+            PlayCharacterSound(amountOfCharacters);
+            amountOfCharacters++;
+
             yield return new WaitForSeconds(typingSpeed);
         }
     }
@@ -76,6 +98,21 @@ public class DialogueManager : MonoBehaviour
         else if (currentIndex == dialogueLines.Length)
         {
             dialogueFinished = true;
+        }
+    }
+
+    private void PlayCharacterSound(int amount)
+    {
+        if (amount % frequency == 0)
+        {
+            if (!StopAudioSource)
+            {
+                audioSource.Stop();
+            }
+            
+            audioSource.pitch = Random.Range(minPitch, maxPitch);
+            audioSource.volume = Random.Range(minVol, maxVol);
+            audioSource.PlayOneShot(audioClip);
         }
     }
 }
