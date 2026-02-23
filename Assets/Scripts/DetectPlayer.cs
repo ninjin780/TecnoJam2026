@@ -1,12 +1,16 @@
 using System;
-using System.Collections;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class DetectPlayer : MonoBehaviour
 {
     public GameObject ActionObject;
-    public GameObject CleaningText;
+    public GameObject CleaningObject;
+    public GameObject CleaningBg;
+    public TextMeshProUGUI cleaningText;
+
     public bool IsPlayerInRange = false;
 
     private InputAction interactAction;
@@ -16,7 +20,7 @@ public class DetectPlayer : MonoBehaviour
     [SerializeField] private float coolDown = 1.5f;
     private float timer = 0.0f;
     private bool isCoolDownDone = false;
-    private bool canDeleteObject = false;
+    private bool canDeleteObject;
 
     public static event Action<bool> OnChangeFreezeState;
 
@@ -24,6 +28,7 @@ public class DetectPlayer : MonoBehaviour
     {
         interactAction = InputSystem.actions.FindAction("Player/Interact");
         spriteRenderer = GetComponent<SpriteRenderer>();
+        cleaningText = CleaningObject.GetComponent<TextMeshProUGUI>();
     }
 
     private void Update()
@@ -31,7 +36,8 @@ public class DetectPlayer : MonoBehaviour
         if (interactAction.WasPressedThisFrame() && IsPlayerInRange)
         {
             canDeleteObject = true;
-            CleaningText.SetActive(true);
+            CleaningObject.SetActive(true);
+            CleaningBg.SetActive(true);
 
             OnChangeFreezeState?.Invoke(true);
         }
@@ -39,7 +45,7 @@ public class DetectPlayer : MonoBehaviour
         if (canDeleteObject)
         {
             timer += Time.deltaTime;
-            Debug.Log(timer);
+            AnimateText();
 
             if (timer >= coolDown) isCoolDownDone = true;
 
@@ -50,13 +56,23 @@ public class DetectPlayer : MonoBehaviour
         }
     }
 
+    private void AnimateText()
+    {
+        string text = "Cleaning";
+
+        text += ".";
+
+        cleaningText.text = text;
+    }
+
     private void DeactivateElements()
     {
         spriteRenderer.enabled = false;
         rendererActive = false;
 
         ActionObject.SetActive(false);
-        CleaningText.SetActive(false);
+        CleaningObject.SetActive(false);
+        CleaningBg.SetActive(false);
 
         isCoolDownDone = false;
         timer = 0.0f;
