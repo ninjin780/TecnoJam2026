@@ -1298,8 +1298,8 @@ MonoBehaviour:
   minPitch: 0.95
   maxVol: 1
   minVol: 0.9
-  audioClip: {fileID: 0}
-  StopAudioSource: 0
+  audioClip: {fileID: 8300000, guid: 14e71d46fde9661489f33bf5ffa32da8, type: 3}
+  StopAudioSource: 1
 --- !u!4 &1697878200
 Transform:
   m_ObjectHideFlags: 0

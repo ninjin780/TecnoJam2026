@@ -180,8 +180,8 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 91.3
-  orthographic: 0
-  orthographic size: 5
+  orthographic: 1
+  orthographic size: 13.34
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -541,6 +541,10 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: cf0a2ea1-4afb-4ce6-817d-910d88285b44
     m_ActionName: 'Car/Move[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: ffe0fa9f-2667-4fc8-8d90-5bae2329a857
+    m_ActionName: 'Dialogue/ClickAnywhere[/Mouse/leftButton,/Keyboard/space,/Keyboard/enter]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Car
