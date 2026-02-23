@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 165928908}
   - component: {fileID: 165928907}
   - component: {fileID: 165928909}
+  - component: {fileID: 165928910}
   m_Layer: 0
   m_Name: Scene
   m_TagString: Untagged
@@ -246,6 +247,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec1e7599f2a6d774bbe325c656bbb0d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+--- !u!114 &165928910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 165928905}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcaa298150dfb8244be23717c62e8380, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  carCrash: {fileID: 8300000, guid: 760cebf65e55d454c94ae1aff3cc7329, type: 3}
+  motorSound: {fileID: 8300000, guid: f624fe88685a619428dea87b1ae950e2, type: 3}
 --- !u!1 &1940063593
 GameObject:
   m_ObjectHideFlags: 0
