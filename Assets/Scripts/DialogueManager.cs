@@ -59,7 +59,7 @@ public class DialogueManager : MonoBehaviour
 
             if (dialogueFinished)
             {
-                // ir a la siguiente escena
+                ChangeScene.SetNextScene();
             }
         }
     }

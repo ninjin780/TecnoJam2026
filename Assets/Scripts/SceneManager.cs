@@ -8,7 +8,7 @@ public class ChangeScene : MonoBehaviour
         SetNextScene();
     }
 
-    public void SetNextScene()
+    public static void SetNextScene()
     {
         Scene currentScene = SceneManager.GetActiveScene();
         SceneManager.LoadScene(currentScene.buildIndex + 1);
