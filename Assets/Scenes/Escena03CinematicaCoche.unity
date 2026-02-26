@@ -260,7 +260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
   carCrash: {fileID: 8300000, guid: 760cebf65e55d454c94ae1aff3cc7329, type: 3}
-  motorSound: {fileID: 8300000, guid: f624fe88685a619428dea87b1ae950e2, type: 3}
+  motorSound: {fileID: 8300000, guid: 13786456c489a8342ab2262aaa42d8bd, type: 3}
 --- !u!1 &1940063593
 GameObject:
   m_ObjectHideFlags: 0

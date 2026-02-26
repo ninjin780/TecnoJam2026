@@ -6,20 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Monologue.unity
+    path: Assets/Scenes/Escena01Monologue.unity
     guid: 595018f788779fe44bb3457c6b6edd2a
   - enabled: 1
-    path: Assets/Scenes/CarMinigameTest.unity
+    path: Assets/Scenes/Escena02MiniJuegoCoche.unity
     guid: 07689298ba73f564cb29736088035abd
   - enabled: 1
-    path: Assets/Scenes/CarCrash.unity
+    path: Assets/Scenes/Escena03CinematicaCoche.unity
     guid: f3e5931b0ec0d8140b647bc2bf4931d5
   - enabled: 1
-    path: Assets/Scenes/CuartoLidia.unity
+    path: Assets/Scenes/Escena04CocheChocado.unity
+    guid: 1d89c2b4d88872a46978af61b30409ff
+  - enabled: 1
+    path: Assets/Scenes/Escena05Cuarto.unity
     guid: 49f059953d0079d429c7b85cd076e51b
   - enabled: 1
-    path: Assets/Scenes/MiniGame01.unity
+    path: Assets/Scenes/Escena06Exterior.unity
+    guid: 31b7a86a608130b409384528e7ef9560
+  - enabled: 1
+    path: Assets/Scenes/Escena07Capilla.unity
     guid: 1e54f0b04764f4247993089c47f43991
+  - enabled: 1
+    path: Assets/Scenes/Escena08Padre.unity
+    guid: 259ed082f3e69614fb25e10ad484918e
+  - enabled: 1
+    path: Assets/Scenes/Escena09Exterior.unity
+    guid: a85612daea694674ca74ea815adfb48f
+  - enabled: 1
+    path: Assets/Scenes/Escena10Poster.unity
+    guid: 3e09f76b082bfe6428bec8e07d208b0b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
