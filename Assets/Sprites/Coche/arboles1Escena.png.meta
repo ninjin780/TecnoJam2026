@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 299dad73e51666746b7680158da397db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -663369198011626871
+    second: arboles1Escena_0
+  - first:
+      213: 3329734409981540540
+    second: arboles1Escena_1
+  - first:
+      213: -1574875047770021942
+    second: arboles1Escena_2
+  - first:
+      213: 6167940941466358044
+    second: arboles1Escena_3
+  - first:
+      213: -7080366619767819404
+    second: arboles1Escena_4
+  - first:
+      213: 6367051286144750796
+    second: arboles1Escena_5
+  - first:
+      213: 2619138743064612951
+    second: arboles1Escena_6
+  - first:
+      213: -2324599733332406771
+    second: arboles1Escena_7
+  - first:
+      213: -8169839830532976245
+    second: arboles1Escena_8
+  - first:
+      213: 5436982586010824657
+    second: arboles1Escena_9
+  - first:
+      213: -2450351897321880140
+    second: arboles1Escena_10
+  - first:
+      213: -1248150837041140709
+    second: arboles1Escena_11
+  - first:
+      213: -3553495121729016761
+    second: arboles1Escena_12
+  - first:
+      213: -3874438023099036410
+    second: arboles1Escena_13
+  - first:
+      213: 7566538792921281308
+    second: arboles1Escena_14
+  - first:
+      213: -6419257250566905057
+    second: arboles1Escena_15
+  - first:
+      213: 3180028071400374020
+    second: arboles1Escena_16
+  - first:
+      213: 2380740379325643707
+    second: arboles1Escena_17
+  - first:
+      213: -8190843047291716043
+    second: arboles1Escena_18
+  - first:
+      213: -5682447721506847842
+    second: arboles1Escena_19
+  - first:
+      213: 7242423893149340929
+    second: arboles1Escena_20
+  - first:
+      213: 5012654271697336658
+    second: arboles1Escena_21
+  - first:
+      213: -4029176415330990622
+    second: arboles1Escena_22
+  - first:
+      213: -8448074914270555363
+    second: arboles1Escena_23
+  - first:
+      213: 5014111027402459438
+    second: arboles1Escena_24
+  - first:
+      213: 3346540820930214470
+    second: arboles1Escena_25
+  - first:
+      213: 4037563792352943680
+    second: arboles1Escena_26
+  - first:
+      213: 8338252469783624740
+    second: arboles1Escena_27
+  - first:
+      213: -1950333330154349973
+    second: arboles1Escena_28
+  - first:
+      213: -2509981423289799127
+    second: arboles1Escena_29
+  - first:
+      213: -6280161501237462438
+    second: arboles1Escena_30
+  - first:
+      213: 7162197641643027674
+    second: arboles1Escena_31
+  - first:
+      213: -1399003943291615470
+    second: arboles1Escena_32
+  - first:
+      213: 2477155413213509449
+    second: arboles1Escena_33
+  - first:
+      213: 1920670351335366606
+    second: arboles1Escena_34
+  - first:
+      213: 8748057086100544947
+    second: arboles1Escena_35
+  - first:
+      213: -8848925462367582595
+    second: arboles1Escena_36
+  - first:
+      213: -293238986779297987
+    second: arboles1Escena_37
+  - first:
+      213: -1024685233666855507
+    second: arboles1Escena_38
+  - first:
+      213: -1047112670485668016
+    second: arboles1Escena_39
+  - first:
+      213: 3658990303786361972
+    second: arboles1Escena_40
+  - first:
+      213: -9068709582334340334
+    second: arboles1Escena_41
+  - first:
+      213: -2286248072540646717
+    second: arboles1Escena_42
+  - first:
+      213: -6600223493210422180
+    second: arboles1Escena_43
+  - first:
+      213: 9193098810444517482
+    second: arboles1Escena_44
+  - first:
+      213: 8843760829742254357
+    second: arboles1Escena_45
+  - first:
+      213: -7026968268246707666
+    second: arboles1Escena_46
+  - first:
+      213: -8654288094185997996
+    second: arboles1Escena_47
+  - first:
+      213: -3524741826819542875
+    second: arboles1Escena_48
+  - first:
+      213: 249936434402782061
+    second: arboles1Escena_49
+  - first:
+      213: 5948593386757192290
+    second: arboles1Escena_50
+  - first:
+      213: 2458300811659943514
+    second: arboles1Escena_51
+  - first:
+      213: 5179550770047571636
+    second: arboles1Escena_52
+  - first:
+      213: 8414744304724542413
+    second: arboles1Escena_53
+  - first:
+      213: -2405275708378440554
+    second: arboles1Escena_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arboles1Escena_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3740
+        width: 236
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ac495aa3d3bc6f0800000000000000
+      internalID: -663369198011626871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3591
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8385fddc7953e20800000000000000
+      internalID: 3329734409981540540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_2
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 3614
+        width: 279
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf9a04fc7be42ae0800000000000000
+      internalID: -1574875047770021942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 3616
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d0bb6b9de89550800000000000000
+      internalID: 6167940941466358044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_4
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 3560
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b43d921c7dbd90800000000000000
+      internalID: -7080366619767819404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3368
+        width: 352
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41a51296f4c5850800000000000000
+      internalID: 6367051286144750796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3297
+        width: 227
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75054dd5fcc095420800000000000000
+      internalID: 2619138743064612951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3193
+        width: 278
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e01c9dbdc5dbfd0800000000000000
+      internalID: -2324599733332406771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_8
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3367
+        width: 298
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b819e35b5f5ee9e80800000000000000
+      internalID: -8169839830532976245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 3263
+        width: 323
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe8290bda047b40800000000000000
+      internalID: 5436982586010824657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3021
+        width: 271
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5cc619ee99efdd0800000000000000
+      internalID: -2450351897321880140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2911
+        width: 352
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c6e0c3d6dadaee0800000000000000
+      internalID: -1248150837041140709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_12
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2828
+        width: 228
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c224693037faec0800000000000000
+      internalID: -3553495121729016761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_13
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2972
+        width: 259
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d4ae8452b3b3ac0800000000000000
+      internalID: -3874438023099036410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_14
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2947
+        width: 231
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13394361feb10960800000000000000
+      internalID: 7566538792921281308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_15
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2894
+        width: 374
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13eb129a873ae6a0800000000000000
+      internalID: -6419257250566905057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2719
+        width: 255
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff693beaab12c20800000000000000
+      internalID: 3180028071400374020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_17
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2658
+        width: 299
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb3224e2c61a0120800000000000000
+      internalID: 2380740379325643707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2564
+        width: 252
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ef23b35a7445e80800000000000000
+      internalID: -8190843047291716043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_19
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2525
+        width: 365
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934bd877e3e321b0800000000000000
+      internalID: -5682447721506847842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 287
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d7f7a822428460800000000000000
+      internalID: 7242423893149340929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2400
+        width: 281
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2593d5e7086809540800000000000000
+      internalID: 5012654271697336658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_22
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2268
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e580d2d56d7518c0800000000000000
+      internalID: -4029176415330990622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_23
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2262
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13d30310a862ca80800000000000000
+      internalID: -8448074914270555363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_24
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 2184
+        width: 298
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2941bcd963b59540800000000000000
+      internalID: 5014111027402459438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1652
+        width: 175
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab3e9552d417e20800000000000000
+      internalID: 3346540820930214470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1863
+        width: 317
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e1d2190ee480830800000000000000
+      internalID: 4037563792352943680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1991
+        width: 200
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf9fc717c67b370800000000000000
+      internalID: 8338252469783624740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_28
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1867
+        width: 313
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a9b866b260fe4e0800000000000000
+      internalID: -1950333330154349973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_29
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1890
+        width: 271
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6bf7a131ca2dd0800000000000000
+      internalID: -2509981423289799127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1567
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a38aa636268d8a0800000000000000
+      internalID: -6280161501237462438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_31
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1651
+        width: 369
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce541eecc356360800000000000000
+      internalID: 7162197641643027674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_32
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1686
+        width: 192
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2178bb8635db59ce0800000000000000
+      internalID: -1399003943291615470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_33
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1738
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947f60a49bf906220800000000000000
+      internalID: 2477155413213509449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1308
+        width: 344
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf18f5228797aa10800000000000000
+      internalID: 1920670351335366606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1066
+        width: 373
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9cd31297576970800000000000000
+      internalID: 8748057086100544947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_36
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1296
+        width: 262
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76cba3fc2d423580800000000000000
+      internalID: -8848925462367582595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_37
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1254
+        width: 343
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3779b6f1b43eebf0800000000000000
+      internalID: -293238986779297987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_38
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1374
+        width: 375
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dade2b0853697c1f0800000000000000
+      internalID: -1024685233666855507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 276
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f14e3f298e771f0800000000000000
+      internalID: -1047112670485668016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_40
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 900
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474e8cd8b4857c230800000000000000
+      internalID: 3658990303786361972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_41
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 861
+        width: 216
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d7c5dea8752280800000000000000
+      internalID: -9068709582334340334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_42
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1091
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c21bc7bd7d9540e0800000000000000
+      internalID: -2286248072540646717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_43
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 991
+        width: 278
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544101d3bb4764a0800000000000000
+      internalID: -6600223493210422180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 582
+        width: 406
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a609c9539a2749f70800000000000000
+      internalID: 9193098810444517482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_45
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 530
+        width: 290
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5190d4f4e995bba70800000000000000
+      internalID: 8843760829742254357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_46
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 687
+        width: 356
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22963b27913b7e90800000000000000
+      internalID: -7026968268246707666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 293
+        width: 225
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b62aa4dac5e780800000000000000
+      internalID: -8654288094185997996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 236
+        width: 373
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b57fbbf9951fc0800000000000000
+      internalID: -3524741826819542875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_49
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 105
+        width: 310
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6105ecd3f77300800000000000000
+      internalID: 249936434402782061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_50
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 164
+        width: 463
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a76e21b26ad8250800000000000000
+      internalID: 5948593386757192290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_51
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 326
+        width: 337
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9b064093ad1220800000000000000
+      internalID: 2458300811659943514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 422
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b659c0abf571e740800000000000000
+      internalID: 5179550770047571636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_53
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 312
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc309d6ac5d27c470800000000000000
+      internalID: 8414744304724542413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles1Escena_54
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 0
+        width: 348
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1a37ac7ebe9ed0800000000000000
+      internalID: -2405275708378440554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arboles1Escena_0: -663369198011626871
+      arboles1Escena_1: 3329734409981540540
+      arboles1Escena_10: -2450351897321880140
+      arboles1Escena_11: -1248150837041140709
+      arboles1Escena_12: -3553495121729016761
+      arboles1Escena_13: -3874438023099036410
+      arboles1Escena_14: 7566538792921281308
+      arboles1Escena_15: -6419257250566905057
+      arboles1Escena_16: 3180028071400374020
+      arboles1Escena_17: 2380740379325643707
+      arboles1Escena_18: -8190843047291716043
+      arboles1Escena_19: -5682447721506847842
+      arboles1Escena_2: -1574875047770021942
+      arboles1Escena_20: 7242423893149340929
+      arboles1Escena_21: 5012654271697336658
+      arboles1Escena_22: -4029176415330990622
+      arboles1Escena_23: -8448074914270555363
+      arboles1Escena_24: 5014111027402459438
+      arboles1Escena_25: 3346540820930214470
+      arboles1Escena_26: 4037563792352943680
+      arboles1Escena_27: 8338252469783624740
+      arboles1Escena_28: -1950333330154349973
+      arboles1Escena_29: -2509981423289799127
+      arboles1Escena_3: 6167940941466358044
+      arboles1Escena_30: -6280161501237462438
+      arboles1Escena_31: 7162197641643027674
+      arboles1Escena_32: -1399003943291615470
+      arboles1Escena_33: 2477155413213509449
+      arboles1Escena_34: 1920670351335366606
+      arboles1Escena_35: 8748057086100544947
+      arboles1Escena_36: -8848925462367582595
+      arboles1Escena_37: -293238986779297987
+      arboles1Escena_38: -1024685233666855507
+      arboles1Escena_39: -1047112670485668016
+      arboles1Escena_4: -7080366619767819404
+      arboles1Escena_40: 3658990303786361972
+      arboles1Escena_41: -9068709582334340334
+      arboles1Escena_42: -2286248072540646717
+      arboles1Escena_43: -6600223493210422180
+      arboles1Escena_44: 9193098810444517482
+      arboles1Escena_45: 8843760829742254357
+      arboles1Escena_46: -7026968268246707666
+      arboles1Escena_47: -8654288094185997996
+      arboles1Escena_48: -3524741826819542875
+      arboles1Escena_49: 249936434402782061
+      arboles1Escena_5: 6367051286144750796
+      arboles1Escena_50: 5948593386757192290
+      arboles1Escena_51: 2458300811659943514
+      arboles1Escena_52: 5179550770047571636
+      arboles1Escena_53: 8414744304724542413
+      arboles1Escena_54: -2405275708378440554
+      arboles1Escena_6: 2619138743064612951
+      arboles1Escena_7: -2324599733332406771
+      arboles1Escena_8: -8169839830532976245
+      arboles1Escena_9: 5436982586010824657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

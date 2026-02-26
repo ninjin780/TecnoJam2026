@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: cffdef9676d5cbd4f99de1ab60561093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4742080546527034002
+    second: arbolesChoque_0
+  - first:
+      213: 8369408556253949902
+    second: arbolesChoque_1
+  - first:
+      213: 2443675021243358498
+    second: arbolesChoque_2
+  - first:
+      213: 9201039326959378885
+    second: arbolesChoque_3
+  - first:
+      213: 5678440599983927801
+    second: arbolesChoque_4
+  - first:
+      213: 7874324999845878162
+    second: arbolesChoque_5
+  - first:
+      213: 2052943144286198126
+    second: arbolesChoque_6
+  - first:
+      213: 5358324047014753231
+    second: arbolesChoque_7
+  - first:
+      213: 8122087112969858193
+    second: arbolesChoque_8
+  - first:
+      213: 625046267271977069
+    second: arbolesChoque_9
+  - first:
+      213: 5640475613004664591
+    second: arbolesChoque_10
+  - first:
+      213: -7142202628046796522
+    second: arbolesChoque_11
+  - first:
+      213: -4369713599939506595
+    second: arbolesChoque_12
+  - first:
+      213: 3315951033000398857
+    second: arbolesChoque_13
+  - first:
+      213: 3666090634709985473
+    second: arbolesChoque_14
+  - first:
+      213: 8721003439441677080
+    second: arbolesChoque_15
+  - first:
+      213: -2511594828338495431
+    second: arbolesChoque_16
+  - first:
+      213: -7042511069573223420
+    second: arbolesChoque_17
+  - first:
+      213: -2134559994437987499
+    second: arbolesChoque_18
+  - first:
+      213: 8655130646244214222
+    second: arbolesChoque_19
+  - first:
+      213: 7593902932399607071
+    second: arbolesChoque_20
+  - first:
+      213: -5816527422259255150
+    second: arbolesChoque_21
+  - first:
+      213: -968238534437640594
+    second: arbolesChoque_22
+  - first:
+      213: 7597317570366381098
+    second: arbolesChoque_23
+  - first:
+      213: -2453801763765066508
+    second: arbolesChoque_24
+  - first:
+      213: 6391185215677776778
+    second: arbolesChoque_25
+  - first:
+      213: 9079901847829843321
+    second: arbolesChoque_26
+  - first:
+      213: -9044829680376997600
+    second: arbolesChoque_27
+  - first:
+      213: -7206365764357271408
+    second: arbolesChoque_28
+  - first:
+      213: 5557274358181313777
+    second: arbolesChoque_29
+  - first:
+      213: 4788874848387982669
+    second: arbolesChoque_30
+  - first:
+      213: -621038424266595071
+    second: arbolesChoque_31
+  - first:
+      213: -2211400780573298113
+    second: arbolesChoque_32
+  - first:
+      213: 903961341951248156
+    second: arbolesChoque_33
+  - first:
+      213: -747382688171880815
+    second: arbolesChoque_34
+  - first:
+      213: -3449168678474185704
+    second: arbolesChoque_35
+  - first:
+      213: -1363815145499354368
+    second: arbolesChoque_36
+  - first:
+      213: -2743302298684257620
+    second: arbolesChoque_37
+  - first:
+      213: 3743635412122373875
+    second: arbolesChoque_38
+  - first:
+      213: 3371999320417857880
+    second: arbolesChoque_39
+  - first:
+      213: 7588826342756161159
+    second: arbolesChoque_40
+  - first:
+      213: -7584025411278163440
+    second: arbolesChoque_41
+  - first:
+      213: 6087691336856731826
+    second: arbolesChoque_42
+  - first:
+      213: 7235599303817874785
+    second: arbolesChoque_43
+  - first:
+      213: -1302879023392960333
+    second: arbolesChoque_44
+  - first:
+      213: 816545383539923136
+    second: arbolesChoque_45
+  - first:
+      213: -1146001723572997097
+    second: arbolesChoque_46
+  - first:
+      213: 259563863747223426
+    second: arbolesChoque_47
+  - first:
+      213: -2095113073807492446
+    second: arbolesChoque_48
+  - first:
+      213: 795482068579314871
+    second: arbolesChoque_49
+  - first:
+      213: 7883076493168016995
+    second: arbolesChoque_50
+  - first:
+      213: 3905131163714138235
+    second: arbolesChoque_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbolesChoque_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1910
+        width: 286
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab808e1214fc140800000000000000
+      internalID: 4742080546527034002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1887
+        width: 404
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa1a72dbc162470800000000000000
+      internalID: 8369408556253949902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1800
+        width: 312
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d94b31c7da9e120800000000000000
+      internalID: 2443675021243358498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1958
+        width: 300
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c120d7c488a0bf70800000000000000
+      internalID: 9201039326959378885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_4
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1826
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b238d3afddce40800000000000000
+      internalID: 5678440599983927801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_5
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1721
+        width: 404
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999acd0ed8374d60800000000000000
+      internalID: 7874324999845878162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_6
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1792
+        width: 327
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69904ba9e48d7c10800000000000000
+      internalID: 2052943144286198126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_7
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1776
+        width: 464
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc37fb5c4579c5a40800000000000000
+      internalID: 5358324047014753231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_8
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 1854
+        width: 376
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca853523377b070800000000000000
+      internalID: 8122087112969858193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1447
+        width: 275
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d681ee8b44c9ca800800000000000000
+      internalID: 625046267271977069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1530
+        width: 318
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f856d7faef64e40800000000000000
+      internalID: 5640475613004664591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1439
+        width: 296
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c8610d8cc1ec90800000000000000
+      internalID: -7142202628046796522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_12
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1746
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8961f1a8ab53c0800000000000000
+      internalID: -4369713599939506595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_13
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1737
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900149655ef940e20800000000000000
+      internalID: 3315951033000398857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_14
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1423
+        width: 397
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8664c220290e230800000000000000
+      internalID: 3666090634709985473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_15
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1601
+        width: 312
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b81ec1c6a370970800000000000000
+      internalID: 8721003439441677080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_16
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1473
+        width: 318
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9300d258fc5052dd0800000000000000
+      internalID: -2511594828338495431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_17
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1481
+        width: 267
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce45bbe79f34e90800000000000000
+      internalID: -7042511069573223420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_18
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1464
+        width: 397
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55393c39ef48062e0800000000000000
+      internalID: -2134559994437987499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1731
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5cbf547733d1870800000000000000
+      internalID: 8655130646244214222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_20
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1440
+        width: 260
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dc9789b76f26960800000000000000
+      internalID: 7593902932399607071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_21
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1384
+        width: 392
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982be1702b874fa0800000000000000
+      internalID: -5816527422259255150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_22
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1390
+        width: 275
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66eff0de202092f0800000000000000
+      internalID: -968238534437640594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_23
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1382
+        width: 296
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9583f3181f6960800000000000000
+      internalID: 7597317570366381098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_24
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1520
+        width: 46
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f46e81fb4852fdd0800000000000000
+      internalID: -2453801763765066508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_25
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 1508
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83c33a771d02b850800000000000000
+      internalID: 6391185215677776778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_26
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 714
+        width: 900
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d8f4b8f9a420e70800000000000000
+      internalID: 9079901847829843321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_27
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 596
+        width: 693
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0291837c35f4a7280800000000000000
+      internalID: -9044829680376997600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_28
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 819
+        width: 404
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090d2fda488ddfb90800000000000000
+      internalID: -7206365764357271408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_29
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1188
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb8c6c5976f1d40800000000000000
+      internalID: 5557274358181313777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 555
+        width: 333
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45e7f35d40857240800000000000000
+      internalID: 4788874848387982669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 640
+        width: 275
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105a8b1f7d0a167f0800000000000000
+      internalID: -621038424266595071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 778
+        width: 404
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3238e1e4b68f41e0800000000000000
+      internalID: -2211400780573298113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_33
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 632
+        width: 296
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1780b51d048b8c00800000000000000
+      internalID: 903961341951248156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_34
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 681
+        width: 275
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0d38a763c0a5f0800000000000000
+      internalID: -747382688171880815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_35
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 673
+        width: 296
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81484258c571220d0800000000000000
+      internalID: -3449168678474185704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_36
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 755
+        width: 501
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b9639d951c21de0800000000000000
+      internalID: -1363815145499354368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_37
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 434
+        width: 263
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa896f0815dde9d0800000000000000
+      internalID: -2743302298684257620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_38
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 69
+        width: 404
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe802c929014f330800000000000000
+      internalID: 3743635412122373875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_39
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 334
+        width: 318
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517d5c248fbbce20800000000000000
+      internalID: 3371999320417857880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_40
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 438
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7869b16f95de05960800000000000000
+      internalID: 7588826342756161159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_41
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 165
+        width: 464
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012ba31021120c690800000000000000
+      internalID: -7584025411278163440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_42
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 181
+        width: 327
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b081935403db7450800000000000000
+      internalID: 6087691336856731826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_43
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 476
+        width: 263
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dc0212b330a6460800000000000000
+      internalID: 7235599303817874785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_44
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 110
+        width: 404
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0da516e6e3bede0800000000000000
+      internalID: -1302879023392960333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_45
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 337
+        width: 318
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d1e833b3f45b00800000000000000
+      internalID: 816545383539923136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 329
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714327211859810f0800000000000000
+      internalID: -1146001723572997097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_47
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 140
+        width: 327
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f5e2775f72a9300800000000000000
+      internalID: 259563863747223426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_48
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 312
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa7d6f72c9ace2e0800000000000000
+      internalID: -2095113073807492446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_49
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 56
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcecda0abe1a0b00800000000000000
+      internalID: 795482068579314871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_50
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 30
+        width: 320
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef280ed40566d60800000000000000
+      internalID: 7883076493168016995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolesChoque_51
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 0
+        width: 312
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703d766a10d13630800000000000000
+      internalID: 3905131163714138235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arbolesChoque_0: 4742080546527034002
+      arbolesChoque_1: 8369408556253949902
+      arbolesChoque_10: 5640475613004664591
+      arbolesChoque_11: -7142202628046796522
+      arbolesChoque_12: -4369713599939506595
+      arbolesChoque_13: 3315951033000398857
+      arbolesChoque_14: 3666090634709985473
+      arbolesChoque_15: 8721003439441677080
+      arbolesChoque_16: -2511594828338495431
+      arbolesChoque_17: -7042511069573223420
+      arbolesChoque_18: -2134559994437987499
+      arbolesChoque_19: 8655130646244214222
+      arbolesChoque_2: 2443675021243358498
+      arbolesChoque_20: 7593902932399607071
+      arbolesChoque_21: -5816527422259255150
+      arbolesChoque_22: -968238534437640594
+      arbolesChoque_23: 7597317570366381098
+      arbolesChoque_24: -2453801763765066508
+      arbolesChoque_25: 6391185215677776778
+      arbolesChoque_26: 9079901847829843321
+      arbolesChoque_27: -9044829680376997600
+      arbolesChoque_28: -7206365764357271408
+      arbolesChoque_29: 5557274358181313777
+      arbolesChoque_3: 9201039326959378885
+      arbolesChoque_30: 4788874848387982669
+      arbolesChoque_31: -621038424266595071
+      arbolesChoque_32: -2211400780573298113
+      arbolesChoque_33: 903961341951248156
+      arbolesChoque_34: -747382688171880815
+      arbolesChoque_35: -3449168678474185704
+      arbolesChoque_36: -1363815145499354368
+      arbolesChoque_37: -2743302298684257620
+      arbolesChoque_38: 3743635412122373875
+      arbolesChoque_39: 3371999320417857880
+      arbolesChoque_4: 5678440599983927801
+      arbolesChoque_40: 7588826342756161159
+      arbolesChoque_41: -7584025411278163440
+      arbolesChoque_42: 6087691336856731826
+      arbolesChoque_43: 7235599303817874785
+      arbolesChoque_44: -1302879023392960333
+      arbolesChoque_45: 816545383539923136
+      arbolesChoque_46: -1146001723572997097
+      arbolesChoque_47: 259563863747223426
+      arbolesChoque_48: -2095113073807492446
+      arbolesChoque_49: 795482068579314871
+      arbolesChoque_5: 7874324999845878162
+      arbolesChoque_50: 7883076493168016995
+      arbolesChoque_51: 3905131163714138235
+      arbolesChoque_6: 2052943144286198126
+      arbolesChoque_7: 5358324047014753231
+      arbolesChoque_8: 8122087112969858193
+      arbolesChoque_9: 625046267271977069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
