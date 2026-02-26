@@ -1,7 +1,8 @@
-using UnityEngine;
-using TMPro;
 using System.Collections;
+using TMPro;
+using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -59,7 +60,8 @@ public class DialogueManager : MonoBehaviour
 
             if (dialogueFinished)
             {
-                ChangeScene.SetNextScene();
+                Scene currentScene = SceneManager.GetActiveScene();
+                SceneManager.LoadScene(currentScene.buildIndex + 1);
             }
         }
     }

@@ -13,14 +13,18 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
+    Animator animator;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     public void FixedUpdate()
     {
         rb.MovePosition(rb.position + (speed * Time.fixedDeltaTime * moveInput.normalized));
+        animator.SetFloat("InputX", moveInput.normalized.x);
     }
 
     private void FreezePosition(bool freeze)
