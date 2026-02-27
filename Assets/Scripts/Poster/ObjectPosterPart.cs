@@ -9,5 +9,4 @@ public class ObjectPosterPart : MonoBehaviour
     { 
         return part; 
     }
-
 }
