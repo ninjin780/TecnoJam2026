@@ -53,7 +53,7 @@ public class DialogueManager : MonoBehaviour
         IsDialogueInProgress = true;
         OnDialogueStateChange?.Invoke(true);
 
-        Coroutine dialogueCoroutine = StartCoroutine(DialogueCoroutine());
+        StartCoroutine(DialogueCoroutine());
     }
 
     public IEnumerator DialogueCoroutine()
