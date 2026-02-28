@@ -11,7 +11,9 @@ public class DialogueManager : MonoBehaviour
 
     [SerializeField] private DialogueUI dialogueUI;
     public bool IsDialogueInProgress { get; private set; } = false;
+
     public static event Action<bool> OnDialogueStateChange;
+    public static event Action OnDialogueFinished;
 
     [SerializeField] private float typingSpeed = 0.03f;
 
@@ -51,7 +53,7 @@ public class DialogueManager : MonoBehaviour
         IsDialogueInProgress = true;
         OnDialogueStateChange?.Invoke(true);
 
-        StartCoroutine(DialogueCoroutine());
+        Coroutine dialogueCoroutine = StartCoroutine(DialogueCoroutine());
     }
 
     public IEnumerator DialogueCoroutine()
@@ -73,6 +75,8 @@ public class DialogueManager : MonoBehaviour
         dialogueUI.ChangeDialogueBoxState(false);
 
         OnDialogueStateChange?.Invoke(false);
+        OnDialogueFinished?.Invoke();
+
         IsDialogueInProgress = false;
     }
 
