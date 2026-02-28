@@ -63,10 +63,11 @@ public class PlayerMove : MonoBehaviour
     {
         moveActionReference.action.performed -= OnMovePerformed;
         moveActionReference.action.canceled -= OnMoveCanceled;
-        moveActionReference.action.Disable();
 
         DetectPlayer.OnChangeFreezeState -= FreezePosition;
         DialogueManager.OnDialogueStateChange -= FreezePosition;
         NoteBehaviour.OnNoteShowing -= FreezePosition;
+
+        moveActionReference.action.Disable();
     }
 }

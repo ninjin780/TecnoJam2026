@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d4f913f410ae3942a38d9cd58494b55, type: 3}
+  m_Name: Secuestro
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueRoundSO
+  dialogueTurnList:
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: '!'
+  - CharacterSO: {fileID: 11400000, guid: 07925adbeaeb3244288a61464802f1d8, type: 2}
+    DialogueLine: Who-
+  - CharacterSO: {fileID: 11400000, guid: 07925adbeaeb3244288a61464802f1d8, type: 2}
+    DialogueLine: What the hell are you!?
+  - CharacterSO: {fileID: 11400000, guid: 07925adbeaeb3244288a61464802f1d8, type: 2}
+    DialogueLine: Get back!
+  - CharacterSO: {fileID: 11400000, guid: b62c1d1a98abede44a96a13a53d9a1e3, type: 2}
+    DialogueLine: "Don\u2019t be alarmed."
+  - CharacterSO: {fileID: 11400000, guid: b62c1d1a98abede44a96a13a53d9a1e3, type: 2}
+    DialogueLine: You will serve a greater purpose.
+  - CharacterSO: {fileID: 11400000, guid: 3776f770d9c60a64ebc5f24fecb0485d, type: 2}
+    DialogueLine: "You\u2019ll be made holy through sacrifice."

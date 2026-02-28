@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Escena04_2CocheChocado.unity
     guid: 7da3f86c34d1cd444ad41b6305f670fb
   - enabled: 1
+    path: Assets/Scenes/Escena04_3CocheChocado.unity
+    guid: 50ecc08080e7b174ab85c25890c640b8
+  - enabled: 1
     path: Assets/Scenes/Escena05Cuarto.unity
     guid: 49f059953d0079d429c7b85cd076e51b
   - enabled: 1

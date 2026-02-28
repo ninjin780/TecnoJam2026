@@ -27,13 +27,13 @@ public class DialogueTrigger : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         IsPlayerInRange = true;
-        showInteractable.enabled = true;
+        if (showInteractable != null) showInteractable.enabled = true;
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         IsPlayerInRange = false;
-        showInteractable.enabled = false;
+        if (showInteractable != null) showInteractable.enabled = false;
     }
 
     public void TriggerDialogue()
