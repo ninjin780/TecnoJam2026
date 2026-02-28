@@ -1,120 +1,73 @@
+using System;
 using System.Collections;
-using TMPro;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour
 {
-    [Header("Dialogue Param")]
-    [SerializeField] private GameObject DialoguePanel;
-    [SerializeField] private TMP_Text dialogueText;
+    public static DialogueManager Instance;
 
-    [SerializeField, TextArea(4, 6)] private string[] dialogueLines;
-    private int currentIndex;
+    [SerializeField] private DialogueUI dialogueUI;
+    public bool IsDialogueInProgress { get; private set; } = false;
+    public static event Action<bool> OnDialogueStateChange;
 
-    [SerializeField] private float typingSpeed = 0.05f;
-    private bool dialogueFinished = false;
+    [SerializeField] private float typingSpeed = 0.03f;
 
-    InputAction click;
-
-    [Header("Sound Param")]
-    [Range(1, 5)]
-    [SerializeField] private int frequency = 2;
-
-    [SerializeField] private float maxPitch = 1.05f;
-    [SerializeField] private float minPitch = 0.95f;
-
-    [SerializeField] private float maxVol = 1.0f;
-    [SerializeField] private float minVol = 0.9f;
-    
-    [SerializeField] private AudioClip audioClip;
-    private AudioSource audioSource;
-
-    public bool StopAudioSource = false; // Hace que no se superponga el sonido
+    private Queue<DialogueTurn> dialogueTurnQueue;
+    private InputAction clickedInputAction;
 
     private void Awake()
     {
-        click = InputSystem.actions.FindAction("Dialogue/ClickAnywhere");
-        audioSource = gameObject.AddComponent<AudioSource>();
+        clickedInputAction = InputSystem.actions.FindAction("Dialogue/ClickAnywhere");
+
+        Instance = this;
+        dialogueUI.ChangeDialogueBoxState(false);
+    }
+    
+    public void StartDialogue(DialogueRoundSO dialogueRound)
+    {
+        if (IsDialogueInProgress) return;
+
+        dialogueTurnQueue = new Queue<DialogueTurn>(dialogueRound.dialogueTurnList);
+        
+        IsDialogueInProgress = true;
+        OnDialogueStateChange?.Invoke(true);
+
+        StartCoroutine(DialogueCoroutine());
     }
 
-    private void Start()
+    public IEnumerator DialogueCoroutine()
     {
-        StartDialogue();
-    }
+        dialogueUI.ChangeDialogueBoxState(true);
 
-    private void Update()
-    {
-        if (click.WasPressedThisFrame())
+        while (dialogueTurnQueue.Count > 0)
         {
-            if (!dialogueFinished && dialogueText.text == dialogueLines[currentIndex])
-            {
-                TypeNextLine();
-            }
-            else
-            {
-                StopAllCoroutines();
-                if (currentIndex < dialogueLines.Length) dialogueText.text = dialogueLines[currentIndex];
-            }
+            DialogueTurn turn = dialogueTurnQueue.Dequeue();
 
-            if (dialogueFinished)
-            {
-                Scene currentScene = SceneManager.GetActiveScene();
-                SceneManager.LoadScene(currentScene.buildIndex + 1);
-            }
+            dialogueUI.SetCharacterInfo(turn.CharacterSO);
+            dialogueUI.ClearDialogueTextArea();
+
+            yield return StartCoroutine(TypeLine(turn));
+            yield return new WaitUntil(() => clickedInputAction.WasPressedThisFrame());
+            yield return null;
         }
+
+        dialogueUI.ChangeDialogueBoxState(false);
+
+        OnDialogueStateChange?.Invoke(false);
+        IsDialogueInProgress = false;
     }
 
-    private void StartDialogue()
+    public IEnumerator TypeLine(DialogueTurn turn)
     {
-        currentIndex = 0;
-        dialogueFinished = false;
-        StartCoroutine(TypeLine());
-    }
+        var typingSecondsWait = new WaitForSeconds(typingSpeed);
+        char[] dialogueLine = turn.DialogueLine.ToCharArray();
 
-    private IEnumerator TypeLine()
-    {
-        dialogueText.text = string.Empty;
-        int amountOfCharacters = 0;
-
-        foreach (char character in dialogueLines[currentIndex])
+        foreach(char letter in dialogueLine)
         {
-            dialogueText.text += character;
-
-            PlayCharacterSound(amountOfCharacters);
-            amountOfCharacters++;
-
-            yield return new WaitForSeconds(typingSpeed);
-        }
-    }
-
-    private void TypeNextLine()
-    {
-        currentIndex++;
-
-        if (currentIndex < dialogueLines.Length)
-        {
-            StartCoroutine(TypeLine());
-        }
-        else if (currentIndex == dialogueLines.Length)
-        {
-            dialogueFinished = true;
-        }
-    }
-
-    private void PlayCharacterSound(int amount)
-    {
-        if (amount % frequency == 0)
-        {
-            if (!StopAudioSource)
-            {
-                audioSource.Stop();
-            }
-            
-            audioSource.pitch = Random.Range(minPitch, maxPitch);
-            audioSource.volume = Random.Range(minVol, maxVol);
-            audioSource.PlayOneShot(audioClip);
+            dialogueUI.TypeInDialogueArea(letter);
+            yield return typingSecondsWait;
         }
     }
 }

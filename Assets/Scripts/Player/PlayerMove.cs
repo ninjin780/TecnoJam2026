@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -56,6 +55,7 @@ public class PlayerMove : MonoBehaviour
         moveActionReference.action.canceled += OnMoveCanceled;
 
         DetectPlayer.OnChangeFreezeState += FreezePosition;
+        DialogueManager.OnDialogueStateChange += FreezePosition;
     }
 
     public void OnDisable()
@@ -65,5 +65,6 @@ public class PlayerMove : MonoBehaviour
         moveActionReference.action.Disable();
 
         DetectPlayer.OnChangeFreezeState -= FreezePosition;
+        DialogueManager.OnDialogueStateChange -= FreezePosition;
     }
 }

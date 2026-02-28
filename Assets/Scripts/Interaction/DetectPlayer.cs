@@ -7,9 +7,9 @@ using UnityEngine.UI;
 public class DetectPlayer : MonoBehaviour
 {
     public GameObject ActionObject;
-    public GameObject CleaningObject;
-    public GameObject CleaningBg;
-    public TextMeshProUGUI cleaningText;
+    //public GameObject CleaningObject;
+    //public GameObject CleaningBg;
+    //public GameObject CleaningCanvas;
 
     public bool IsPlayerInRange = false;
 
@@ -28,7 +28,6 @@ public class DetectPlayer : MonoBehaviour
     {
         interactAction = InputSystem.actions.FindAction("Player/Interact");
         spriteRenderer = GetComponent<SpriteRenderer>();
-        cleaningText = CleaningObject.GetComponent<TextMeshProUGUI>();
     }
 
     private void Update()
@@ -36,8 +35,9 @@ public class DetectPlayer : MonoBehaviour
         if (interactAction.WasPressedThisFrame() && IsPlayerInRange)
         {
             canDeleteObject = true;
-            CleaningObject.SetActive(true);
-            CleaningBg.SetActive(true);
+            //CleaningObject.SetActive(true);
+            //CleaningBg.SetActive(true);
+            //CleaningCanvas.SetActive(true);
 
             OnChangeFreezeState?.Invoke(true);
         }
@@ -45,7 +45,6 @@ public class DetectPlayer : MonoBehaviour
         if (canDeleteObject)
         {
             timer += Time.deltaTime;
-            AnimateText();
 
             if (timer >= coolDown) isCoolDownDone = true;
 
@@ -56,23 +55,15 @@ public class DetectPlayer : MonoBehaviour
         }
     }
 
-    private void AnimateText()
-    {
-        string text = "Cleaning";
-
-        text += ".";
-
-        cleaningText.text = text;
-    }
-
     private void DeactivateElements()
     {
         spriteRenderer.enabled = false;
         rendererActive = false;
 
         ActionObject.SetActive(false);
-        CleaningObject.SetActive(false);
-        CleaningBg.SetActive(false);
+        //CleaningObject.SetActive(false);
+        //CleaningBg.SetActive(false);
+        //CleaningCanvas.SetActive(false);
 
         isCoolDownDone = false;
         timer = 0.0f;
