@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d4f913f410ae3942a38d9cd58494b55, type: 3}
+  m_Name: Padre
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueRoundSO
+  dialogueTurnList:
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: Good morning, Father
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: It truly is a wonderful morning Lidi, on such a joyous occasion
+      too.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: Tell me, how are you feeling?
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: "To be honest, I\u2019m a bit nervous."
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: Yes, that is usually the case, but do not fret dear, for it is
+      finally your chance to prove your commitment to the Lord.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: "I\u2019m sure he is glad to have you fully join him, as are we."
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: I trust you have completed your tasks?
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: Yes, Father.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: Wonderful.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: I will prepare what is needed for the ceremony along with the others.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: In the meantime, you are welcome to create an invitation for the
+      ceremony.
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: An invitation?
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: Indeed.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: It is your celebration after all, this is a chance for you to share
+      your joy with the rest of us.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: You have always enjoyed the arts, have you not?
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: Yes, thank you Father!
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: Very well, go on then, my child.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: I will resume my prayers.
+  - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
+    DialogueLine: I shall meet you at the ceremony.
