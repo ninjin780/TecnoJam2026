@@ -31,8 +31,6 @@ public class NoteBehaviour : MonoBehaviour
 
             OnNoteShowing?.Invoke(true);
             IsNoteShowing = true;
-
-            showInteractable.enabled = false;
         }
 
         if (IsNoteShowing)
@@ -40,7 +38,9 @@ public class NoteBehaviour : MonoBehaviour
             if (escape.WasPressedThisFrame())
             {
                 SetSpriteRenderer(false);
+
                 OnNoteShowing?.Invoke(false);
+                IsNoteShowing = false;
             }
         }
     }
