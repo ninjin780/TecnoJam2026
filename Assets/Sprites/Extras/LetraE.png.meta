@@ -1,43 +1,10 @@
 fileFormatVersion: 2
-guid: 3b24d10aeb5b3f740b83414aed97baea
+guid: 4046f04d17c9a2d42a169cc39388e07c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9074355889697015961
-    second: pueblo_0
-  - first:
-      213: -1039612913604033412
-    second: pueblo_1
-  - first:
-      213: 4587703998078533728
-    second: pueblo_2
-  - first:
-      213: 1199358791503528875
-    second: pueblo_3
-  - first:
-      213: -4856125402170364399
-    second: pueblo_4
-  - first:
-      213: 5042335855850666732
-    second: pueblo_5
-  - first:
-      213: -142722542673364120
-    second: pueblo_6
-  - first:
-      213: -7148647534285367034
-    second: pueblo_7
-  - first:
-      213: -5811398423036328943
-    second: pueblo_8
-  - first:
-      213: -451155541203373405
-    second: pueblo_9
-  - first:
-      213: 7096287829604118832
-    second: pueblo_10
-  - first:
-      213: 6069395723843273152
-    second: pueblo_11
+      213: -1313404943385747823
+    second: LetraE_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pueblo_0
+      name: LetraE_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3840
-        height: 2160
+        x: 16
+        y: 19
+        width: 69
+        height: 69
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 767b2257569611280800000000000000
-      internalID: -9074355889697015961
+      spriteID: 19e1047a929d5cde0800000000000000
+      internalID: -1313404943385747823
       vertices: []
       indices: 
       edges: []
@@ -171,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e5ffcc72470cfed4eb1824719a16db43
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -181,18 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pueblo_0: -9074355889697015961
-      pueblo_1: -1039612913604033412
-      pueblo_10: 7096287829604118832
-      pueblo_11: 6069395723843273152
-      pueblo_2: 4587703998078533728
-      pueblo_3: 1199358791503528875
-      pueblo_4: -4856125402170364399
-      pueblo_5: 5042335855850666732
-      pueblo_6: -142722542673364120
-      pueblo_7: -7148647534285367034
-      pueblo_8: -5811398423036328943
-      pueblo_9: -451155541203373405
+      LetraE_0: -1313404943385747823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

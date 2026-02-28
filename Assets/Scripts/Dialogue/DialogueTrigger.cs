@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 public class DialogueTrigger : MonoBehaviour
 {
     [SerializeField] private DialogueRoundSO dialogue;
+    [SerializeField] private SpriteRenderer showInteractable;
     public bool IsPlayerInRange;
 
     private InputAction interaction;
@@ -26,11 +27,13 @@ public class DialogueTrigger : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         IsPlayerInRange = true;
+        showInteractable.enabled = true;
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         IsPlayerInRange = false;
+        showInteractable.enabled = false;
     }
 
     public void TriggerDialogue()

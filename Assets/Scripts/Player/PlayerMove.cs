@@ -56,6 +56,7 @@ public class PlayerMove : MonoBehaviour
 
         DetectPlayer.OnChangeFreezeState += FreezePosition;
         DialogueManager.OnDialogueStateChange += FreezePosition;
+        NoteBehaviour.OnNoteShowing += FreezePosition;
     }
 
     public void OnDisable()
@@ -66,5 +67,6 @@ public class PlayerMove : MonoBehaviour
 
         DetectPlayer.OnChangeFreezeState -= FreezePosition;
         DialogueManager.OnDialogueStateChange -= FreezePosition;
+        NoteBehaviour.OnNoteShowing -= FreezePosition;
     }
 }
