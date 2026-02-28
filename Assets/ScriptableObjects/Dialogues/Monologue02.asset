@@ -12,4 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d4f913f410ae3942a38d9cd58494b55, type: 3}
   m_Name: Monologue02
   m_EditorClassIdentifier: Assembly-CSharp::DialogueRoundSO
-  dialogueTurnList: []
+  dialogueTurnList:
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: Jesus Christ what the hell was that!?
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: "\u2026\u2026.Shit."
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: Please, please let there be some sort of signal, one bar, just
+      one.
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: ...None
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: Just my luck.
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: I should've just ran over that deer.
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: Nobody would have noticed, right?
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: I mean, the deer was on the way, not me.
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: "It\u2019s like getting in the middle of a Death Race TM and expecting
+      to make it out in one piece."
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: ...
+  - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
+    DialogueLine: What do I do?
