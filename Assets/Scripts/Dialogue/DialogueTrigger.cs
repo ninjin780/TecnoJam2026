@@ -1,21 +1,40 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class DialogueTrigger : MonoBehaviour
 {
     [SerializeField] private DialogueRoundSO dialogue;
+    public bool IsPlayerInRange;
+
+    private InputAction interaction;
 
     [ContextMenu("Trigger Dialogue")]
 
-    public void TriggerDialogue()
+    private void Start()
     {
-        DialogueManager.Instance.StartDialogue(dialogue);
+        interaction = InputSystem.actions.FindAction("Player/Interact");
+    }
+
+    private void Update()
+    {
+        if (interaction.WasPressedThisFrame() && IsPlayerInRange)
+        {
+            TriggerDialogue();
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
-        {
-            TriggerDialogue();
-        }
+        IsPlayerInRange = true;
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        IsPlayerInRange = false;
+    }
+
+    public void TriggerDialogue()
+    {
+        DialogueManager.Instance.StartDialogue(dialogue);
     }
 }
