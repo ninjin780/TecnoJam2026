@@ -1,10 +1,49 @@
 fileFormatVersion: 2
-guid: 95dc57cde7257b6489ae5637dc9039e2
+guid: 5feb7170d71a515429d81b93fe5721a0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6582011127417039112
-    second: Cheese_0
+      213: 7150677413441344317
+    second: circulocristiano_0
+  - first:
+      213: 2495015416853950580
+    second: circulocristiano_1
+  - first:
+      213: 7128783131682689639
+    second: circulocristiano_2
+  - first:
+      213: -2462534587211270819
+    second: circulocristiano_3
+  - first:
+      213: -6329423820908988808
+    second: circulocristiano_4
+  - first:
+      213: -4207653099820091885
+    second: circulocristiano_5
+  - first:
+      213: 3320507964325136522
+    second: circulocristiano_6
+  - first:
+      213: -2722099792567820347
+    second: circulocristiano_7
+  - first:
+      213: 1260811474737363250
+    second: circulocristiano_8
+  - first:
+      213: 3212958777779464104
+    second: circulocristiano_9
+  - first:
+      213: -137473460281521576
+    second: circulocristiano_10
+  - first:
+      213: 1903475233627385623
+    second: circulocristiano_11
+  - first:
+      213: -1482300924714217915
+    second: circulocristiano_12
+  - first:
+      213: 3488034852738353839
+    second: circulocristiano_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,12 +85,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +114,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cheese_0
+      name: circulocristiano_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 16
-        height: 14
+        y: 0
+        width: 250
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8096c555f30085b50800000000000000
-      internalID: 6582011127417039112
+      spriteID: d33949bb83f4c3360800000000000000
+      internalID: 7150677413441344317
       vertices: []
       indices: 
       edges: []
@@ -138,7 +177,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: aa765fe17b78a104599d12de7f610209
     internalID: 0
     vertices: []
     indices: 
@@ -146,9 +185,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Cheese_0: 6582011127417039112
+      circulocristiano_0: 7150677413441344317
+      circulocristiano_1: 2495015416853950580
+      circulocristiano_10: -137473460281521576
+      circulocristiano_11: 1903475233627385623
+      circulocristiano_12: -1482300924714217915
+      circulocristiano_13: 3488034852738353839
+      circulocristiano_2: 7128783131682689639
+      circulocristiano_3: -2462534587211270819
+      circulocristiano_4: -6329423820908988808
+      circulocristiano_5: -4207653099820091885
+      circulocristiano_6: 3320507964325136522
+      circulocristiano_7: -2722099792567820347
+      circulocristiano_8: 1260811474737363250
+      circulocristiano_9: 3212958777779464104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
