@@ -51,8 +51,6 @@ public class PosterSlot : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDr
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        uiImage.raycastTarget = true;
-
         GameObject hitData = eventData.pointerCurrentRaycast.gameObject;
 
         if (hitData)
@@ -68,15 +66,13 @@ public class PosterSlot : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDr
                 transform.position = hitRect.position;
 
                 poster.GetPosterPart().IsPositionated = true;
-
-                uiImage.raycastTarget = false;
-
                 CorrectDrop?.Invoke();
 
                 return; 
             }
         }
 
+        uiImage.raycastTarget = true;
         transform.SetParent(parent);
         transform.position = originalPosition;
     }
