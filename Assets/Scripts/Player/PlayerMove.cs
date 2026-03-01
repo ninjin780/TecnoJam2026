@@ -54,7 +54,7 @@ public class PlayerMove : MonoBehaviour
         moveActionReference.action.performed += OnMovePerformed;
         moveActionReference.action.canceled += OnMoveCanceled;
 
-        DetectPlayer.OnChangeFreezeState += FreezePosition;
+        //DetectPlayer.OnChangeFreezeState += FreezePosition;
         DialogueManager.OnDialogueStateChange += FreezePosition;
         NoteBehaviour.OnNoteShowing += FreezePosition;
     }
@@ -64,7 +64,7 @@ public class PlayerMove : MonoBehaviour
         moveActionReference.action.performed -= OnMovePerformed;
         moveActionReference.action.canceled -= OnMoveCanceled;
 
-        DetectPlayer.OnChangeFreezeState -= FreezePosition;
+        //DetectPlayer.OnChangeFreezeState -= FreezePosition;
         DialogueManager.OnDialogueStateChange -= FreezePosition;
         NoteBehaviour.OnNoteShowing -= FreezePosition;
 
