@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f69b5ac51483c0146aff0f4b69aae6b1, type: 3}
   m_Name: PosterPart6
   m_EditorClassIdentifier: Assembly-CSharp::Poster
-  Image: {fileID: 0}
-  CorrectPosition: {fileID: 0}
+  Image: {fileID: 21300000, guid: 78082615f0f51bc478e354fd3253a3e4, type: 3}
   IsPositionated: 0
