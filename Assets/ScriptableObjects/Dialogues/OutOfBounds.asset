@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: OutOfBounds
   m_EditorClassIdentifier: Assembly-CSharp::DialogueRoundSO
   dialogueTurnList:
-  - CharacterSO: {fileID: 0}
-    DialogueLine: 
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: I need to go to the capell.

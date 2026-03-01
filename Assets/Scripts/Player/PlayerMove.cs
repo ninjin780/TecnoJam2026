@@ -12,7 +12,8 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
-    Animator animator;
+    private Animator animator;
+    private bool isCurrentlyFrozen = false;
 
     private void Awake()
     {
@@ -22,18 +23,25 @@ public class PlayerMove : MonoBehaviour
 
     public void FixedUpdate()
     {
-        rb.MovePosition(rb.position + (speed * Time.fixedDeltaTime * moveInput.normalized));
-        animator.SetFloat("InputX", moveInput.normalized.x);
+        if (!isCurrentlyFrozen)
+        {
+            rb.MovePosition(rb.position + (speed * Time.fixedDeltaTime * moveInput.normalized));
+            animator.SetFloat("InputX", moveInput.normalized.x);
+        }
     }
 
     private void FreezePosition(bool freeze)
     {
+        isCurrentlyFrozen = freeze;
+
         if (freeze)
         {
-            rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY;
+            rb.constraints = RigidbodyConstraints2D.FreezeAll;
+            rb.linearVelocity = Vector2.zero;
+            moveInput = Vector2.zero;
         } else
         {
-            rb.constraints = RigidbodyConstraints2D.None;
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
     }
 
