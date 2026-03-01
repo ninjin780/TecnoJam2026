@@ -58,13 +58,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 0, y: 115, z: 561, w: 1078}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -112,111 +112,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_7623 2_0
+      name: Poster5_1
       rect:
         serializedVersion: 2
-        x: 90
-        y: 290
-        width: 392
-        height: 85
+        x: 56
+        y: 139
+        width: 430
+        height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40e6c8efc6bef15b0800000000000000
-      internalID: -5395334975206953468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 2_1
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 250
-        width: 320
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf8a8fa1fa2d28bf0800000000000000
-      internalID: -323464573703640836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 2_2
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 214
-        width: 282
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfa5a702200a60aa0800000000000000
-      internalID: -6195088306406270211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 2_3
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 180
-        width: 247
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7a899b33273ce960800000000000000
-      internalID: 7632536092949449340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 2_4
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 144
-        width: 217
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2cc93018af099400800000000000000
-      internalID: 331313262089587756
+      spriteID: 21a480430b50af44f8a087accb26ba07
+      internalID: -430652603
       vertices: []
       indices: 
       edges: []
@@ -226,20 +138,22 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      IMG_7623 2_0: -5395334975206953468
-      IMG_7623 2_1: -323464573703640836
-      IMG_7623 2_2: -6195088306406270211
-      IMG_7623 2_3: 7632536092949449340
-      IMG_7623 2_4: 331313262089587756
+      Poster5_0: 1676950559
+      Poster5_1: -430652603
+      Poster5_2: -1324299939
+      Poster5_3: -1274553069
+      Poster5_4: -988316367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

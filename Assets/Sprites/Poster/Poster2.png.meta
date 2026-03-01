@@ -55,13 +55,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 0, y: 611, z: 0, w: 672}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -109,89 +109,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_7623 5_0
+      name: Poster2_0
       rect:
         serializedVersion: 2
-        x: 90
-        y: 663
-        width: 73
-        height: 121
+        x: 0
+        y: 637
+        width: 1006
+        height: 143
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f092f227610d760b0800000000000000
-      internalID: -5735386805609486065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 5_1
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 663
-        width: 165
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2439da058adf634e0800000000000000
-      internalID: -2002134084969721022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 5_2
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 663
-        width: 262
-        height: 121
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cf9354ee96c08d90800000000000000
-      internalID: -7097454626998083648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_7623 5_3
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 640
-        width: 882
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9c930dc43ddcde30800000000000000
-      internalID: 4529738544075480219
+      spriteID: 1617bac327a1b0b4da438b01d54e8df3
+      internalID: -412243973
       vertices: []
       indices: 
       edges: []
@@ -201,7 +135,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -214,6 +148,7 @@ TextureImporter:
       IMG_7623 5_1: -2002134084969721022
       IMG_7623 5_2: -7097454626998083648
       IMG_7623 5_3: 4529738544075480219
+      Poster2_0: -412243973
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
