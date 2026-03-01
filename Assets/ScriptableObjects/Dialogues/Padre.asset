@@ -50,7 +50,7 @@ MonoBehaviour:
   - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
     DialogueLine: Yes, thank you Father!
   - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
-    DialogueLine: Very well, go on then, my child.
+    DialogueLine: Very well, go to your room then, my child.
   - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
     DialogueLine: I will resume my prayers.
   - CharacterSO: {fileID: 11400000, guid: 9876717e5a169c5469c2833d65cead9f, type: 2}
