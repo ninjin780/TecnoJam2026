@@ -30,7 +30,7 @@ public class FatherBehaviour : MonoBehaviour
 
     private void NextScene()
     {
-        Scene currentScene = SceneManager.GetActiveScene();
-        SceneManager.LoadScene(currentScene.buildIndex + 1);
+        int nextScene = SceneManager.GetActiveScene().buildIndex + 1;
+        SceneTransition.Instance.FadeAndLoad(nextScene);
     }
 }

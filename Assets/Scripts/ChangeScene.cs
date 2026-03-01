@@ -10,7 +10,7 @@ public class ChangeScene : MonoBehaviour
 
     public void SetNextScene()
     {
-        Scene currentScene = SceneManager.GetActiveScene();
-        SceneManager.LoadScene(currentScene.buildIndex + 1);
+        int nextScene = SceneManager.GetActiveScene().buildIndex + 1;
+        SceneTransition.Instance.FadeAndLoad(nextScene);
     }
 }
