@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d4f913f410ae3942a38d9cd58494b55, type: 3}
+  m_Name: PosterCompeltado
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueRoundSO
+  dialogueTurnList:
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: bli blo bla
+  - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
+    DialogueLine: calabaza calabaza cada uno para su casa

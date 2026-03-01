@@ -5,7 +5,10 @@ using UnityEngine;
 public class PosterManager : MonoBehaviour
 {
     public List<ObjectPosterPart> parts;
+    public GameObject monologue;
+    public GameObject dialogue;
     private bool win;
+
 
     private void Start()
     {
@@ -29,14 +32,16 @@ public class PosterManager : MonoBehaviour
             if (!part.GetPosterPart().IsPositionated)
             {
                 win = false;
-                break;
+                return;
             }
+        }
+        win = true;
 
-            if (win)
-            {
-                // Poner lo que haga falta
-            }
-
+        if (win)
+        {
+            // Poner lo que haga falta
+            monologue.SetActive(true);
+            dialogue.SetActive(true);
         }
     }
 }
