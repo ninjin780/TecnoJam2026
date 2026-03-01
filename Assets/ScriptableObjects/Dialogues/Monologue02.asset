@@ -16,12 +16,12 @@ MonoBehaviour:
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
     DialogueLine: Jesus Christ what the hell was that!?
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
-    DialogueLine: "\u2026\u2026.Shit."
+    DialogueLine: "\u2026\u2026. Shit."
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
     DialogueLine: Please, please let there be some sort of signal, one bar, just
       one.
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
-    DialogueLine: ...None
+    DialogueLine: ... None.
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
     DialogueLine: Just my luck.
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
