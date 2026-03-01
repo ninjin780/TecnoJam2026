@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 1f11fbac5109d11488bee68230fe16c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2380527602876614039
+    second: arboles_0
+  - first:
+      213: -3381334182128304373
+    second: arboles_1
+  - first:
+      213: 762300293619710399
+    second: arboles_2
+  - first:
+      213: 916959999313085261
+    second: arboles_3
+  - first:
+      213: -2986170473323234673
+    second: arboles_4
+  - first:
+      213: 6693430532325236080
+    second: arboles_5
+  - first:
+      213: -1264337572571622621
+    second: arboles_6
+  - first:
+      213: -8067874302197885844
+    second: arboles_7
+  - first:
+      213: -4148797588166191506
+    second: arboles_8
+  - first:
+      213: -4995800035226770986
+    second: arboles_9
+  - first:
+      213: -8368410814528459415
+    second: arboles_10
+  - first:
+      213: 6285624815176306447
+    second: arboles_11
+  - first:
+      213: -4960849438795051219
+    second: arboles_12
+  - first:
+      213: 755134215184078886
+    second: arboles_13
+  - first:
+      213: 5070766630768560232
+    second: arboles_14
+  - first:
+      213: 4193267591370461254
+    second: arboles_15
+  - first:
+      213: 9031836993863298192
+    second: arboles_16
+  - first:
+      213: 4360983524326939843
+    second: arboles_17
+  - first:
+      213: -5560503143817702213
+    second: arboles_18
+  - first:
+      213: -2005079143518690278
+    second: arboles_19
+  - first:
+      213: 7263421203047290456
+    second: arboles_20
+  - first:
+      213: 780658987315486401
+    second: arboles_21
+  - first:
+      213: 4786800343759233963
+    second: arboles_22
+  - first:
+      213: -2996452116491899300
+    second: arboles_23
+  - first:
+      213: 2746017255744114719
+    second: arboles_24
+  - first:
+      213: -6186700367160122449
+    second: arboles_25
+  - first:
+      213: 2754862139620340586
+    second: arboles_26
+  - first:
+      213: -2347436332539377107
+    second: arboles_27
+  - first:
+      213: -2959063520193886952
+    second: arboles_28
+  - first:
+      213: 4590257112843902588
+    second: arboles_29
+  - first:
+      213: -8344980212406618801
+    second: arboles_30
+  - first:
+      213: 4485154928781674616
+    second: arboles_31
+  - first:
+      213: 4086183321141853966
+    second: arboles_32
+  - first:
+      213: -7061160142599727115
+    second: arboles_33
+  - first:
+      213: 350168135754688682
+    second: arboles_34
+  - first:
+      213: 5090943248841124616
+    second: arboles_35
+  - first:
+      213: 1609439790177362104
+    second: arboles_36
+  - first:
+      213: -8373010208606766706
+    second: arboles_37
+  - first:
+      213: -3133242938372187428
+    second: arboles_38
+  - first:
+      213: 2012553838517029141
+    second: arboles_39
+  - first:
+      213: -8495469053880436560
+    second: arboles_40
+  - first:
+      213: -7703312741150330935
+    second: arboles_41
+  - first:
+      213: 2178817706887043959
+    second: arboles_42
+  - first:
+      213: -8747604154492044108
+    second: arboles_43
+  - first:
+      213: 3044867356406271756
+    second: arboles_44
+  - first:
+      213: 1539602912487526611
+    second: arboles_45
+  - first:
+      213: 7650536644157377981
+    second: arboles_46
+  - first:
+      213: 3614404703360053864
+    second: arboles_47
+  - first:
+      213: -703316687938602775
+    second: arboles_48
+  - first:
+      213: -3199415523934527244
+    second: arboles_49
+  - first:
+      213: 6830446214760724495
+    second: arboles_50
+  - first:
+      213: 5942232324369970760
+    second: arboles_51
+  - first:
+      213: -6073302252593930680
+    second: arboles_52
+  - first:
+      213: 1604970316369908148
+    second: arboles_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arboles 1_0
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1430
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ffc77b7bcdfd24e86a93f0a9f8ebf7
+      internalID: 158902706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arboles 1_1
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1512
+        width: 277
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6b37c1a1589745bc5aeb3a0e6cd49
+      internalID: -72304871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9653b55994ee55e4ab2913553abc1f8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arboles 1_0: 158902706
+      arboles 1_1: -72304871
+      arboles 1_2: -376068349
+      arboles_0: 2380527602876614039
+      arboles_1: -3381334182128304373
+      arboles_10: -8368410814528459415
+      arboles_11: 6285624815176306447
+      arboles_12: -4960849438795051219
+      arboles_13: 755134215184078886
+      arboles_14: 5070766630768560232
+      arboles_15: 4193267591370461254
+      arboles_16: 9031836993863298192
+      arboles_17: 4360983524326939843
+      arboles_18: -5560503143817702213
+      arboles_19: -2005079143518690278
+      arboles_2: 762300293619710399
+      arboles_20: 7263421203047290456
+      arboles_21: 780658987315486401
+      arboles_22: 4786800343759233963
+      arboles_23: -2996452116491899300
+      arboles_24: 2746017255744114719
+      arboles_25: -6186700367160122449
+      arboles_26: 2754862139620340586
+      arboles_27: -2347436332539377107
+      arboles_28: -2959063520193886952
+      arboles_29: 4590257112843902588
+      arboles_3: 916959999313085261
+      arboles_30: -8344980212406618801
+      arboles_31: 4485154928781674616
+      arboles_32: 4086183321141853966
+      arboles_33: -7061160142599727115
+      arboles_34: 350168135754688682
+      arboles_35: 5090943248841124616
+      arboles_36: 1609439790177362104
+      arboles_37: -8373010208606766706
+      arboles_38: -3133242938372187428
+      arboles_39: 2012553838517029141
+      arboles_4: -2986170473323234673
+      arboles_40: -8495469053880436560
+      arboles_41: -7703312741150330935
+      arboles_42: 2178817706887043959
+      arboles_43: -8747604154492044108
+      arboles_44: 3044867356406271756
+      arboles_45: 1539602912487526611
+      arboles_46: 7650536644157377981
+      arboles_47: 3614404703360053864
+      arboles_48: -703316687938602775
+      arboles_49: -3199415523934527244
+      arboles_5: 6693430532325236080
+      arboles_50: 6830446214760724495
+      arboles_51: 5942232324369970760
+      arboles_52: -6073302252593930680
+      arboles_53: 1604970316369908148
+      arboles_6: -1264337572571622621
+      arboles_7: -8067874302197885844
+      arboles_8: -4148797588166191506
+      arboles_9: -4995800035226770986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 915d28f7ed573174b987cfc5b2b8b3be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9074355889697015961
+    second: pueblo_0
+  - first:
+      213: -1039612913604033412
+    second: pueblo_1
+  - first:
+      213: 4587703998078533728
+    second: pueblo_2
+  - first:
+      213: 1199358791503528875
+    second: pueblo_3
+  - first:
+      213: -4856125402170364399
+    second: pueblo_4
+  - first:
+      213: 5042335855850666732
+    second: pueblo_5
+  - first:
+      213: -142722542673364120
+    second: pueblo_6
+  - first:
+      213: -7148647534285367034
+    second: pueblo_7
+  - first:
+      213: -5811398423036328943
+    second: pueblo_8
+  - first:
+      213: -451155541203373405
+    second: pueblo_9
+  - first:
+      213: 7096287829604118832
+    second: pueblo_10
+  - first:
+      213: 6069395723843273152
+    second: pueblo_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pueblo_0
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1958
+        width: 266
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767b2257569611280800000000000000
+      internalID: -9074355889697015961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_0
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1853
+        width: 222
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9279db6944d34aad1dc30efb96392
+      internalID: -524961508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_1
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1992
+        width: 517
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d6e50b325e36b4999f0ec1248b6953
+      internalID: 1926043207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_2
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1788
+        width: 489
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c71839bc1d86f4f9b232fce467801c
+      internalID: 1816747449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_3
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1641
+        width: 301
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067493abced03c4d8ae1be771094992
+      internalID: 1593967829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_4
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1641
+        width: 305
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163df8d7987fbe4ea7369b5d79d1b31
+      internalID: 1463183520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_5
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1641
+        width: 468
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709e0c5d15a99a49b43aa316c02ca0e
+      internalID: 86696825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1462
+        width: 1053
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813532dd3ed3c9478612049e6ba9212
+      internalID: 127096610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_7
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1843
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37147eacb989b145a930dc612dc07d8
+      internalID: -1404110678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_8
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1874
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c097d9d887cea4b8a118b5f6c511b1
+      internalID: -459955838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_9
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1014
+        width: 276
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016e598da3ac19b4691f74c334ef75d1
+      internalID: 762658983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_10
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1014
+        width: 275
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80ca0c117a00a47a88eded11ad589e
+      internalID: -322063928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_11
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 852
+        width: 278
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87258fc5397926e4983b39b2b8632f4a
+      internalID: -1639140155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_12
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 889
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a78c06e5cba6347b4cc26c3c1ac6e4
+      internalID: -1290819035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_13
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 883
+        width: 283
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965787d89612de429c355498500b0b2
+      internalID: -358636246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 756
+        width: 388
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82ec67b5df9cd40a753776b03fff7b
+      internalID: -47165782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 883
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7857b4677209419696298979b4117
+      internalID: -2032130951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 912
+        width: 236
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58e17798f239f45a8c9aa5f2b22975
+      internalID: -1557713293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pueblo 1_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1026
+        width: 269
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10456ecbb86614d8bb6c4968d59bb5
+      internalID: 1573872324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5ffcc72470cfed4eb1824719a16db43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pueblo 1_0: -524961508
+      pueblo 1_1: 1926043207
+      pueblo 1_10: -322063928
+      pueblo 1_11: -1639140155
+      pueblo 1_12: -1290819035
+      pueblo 1_13: -358636246
+      pueblo 1_14: -47165782
+      pueblo 1_15: -2032130951
+      pueblo 1_16: -1557713293
+      pueblo 1_17: 1573872324
+      pueblo 1_2: 1816747449
+      pueblo 1_3: 1593967829
+      pueblo 1_4: 1463183520
+      pueblo 1_5: 86696825
+      pueblo 1_6: 127096610
+      pueblo 1_7: -1404110678
+      pueblo 1_8: -459955838
+      pueblo 1_9: 762658983
+      pueblo_0: -9074355889697015961
+      pueblo_1: -1039612913604033412
+      pueblo_10: 7096287829604118832
+      pueblo_11: 6069395723843273152
+      pueblo_2: 4587703998078533728
+      pueblo_3: 1199358791503528875
+      pueblo_4: -4856125402170364399
+      pueblo_5: 5042335855850666732
+      pueblo_6: -142722542673364120
+      pueblo_7: -7148647534285367034
+      pueblo_8: -5811398423036328943
+      pueblo_9: -451155541203373405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
