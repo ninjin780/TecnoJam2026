@@ -31,7 +31,7 @@ MonoBehaviour:
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
     DialogueLine: I mean, the deer was on the way, not me.
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
-    DialogueLine: "It\u2019s like getting in the middle of a Death Race TM and expecting
+    DialogueLine: "It\u2019s like getting in the middle of a Death Race and expecting
       to make it out in one piece."
   - CharacterSO: {fileID: 11400000, guid: 7bd0baaf2151b794385851442a7cf527, type: 2}
     DialogueLine: ...
