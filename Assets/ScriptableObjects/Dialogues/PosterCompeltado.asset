@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueRoundSO
   dialogueTurnList:
   - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
-    DialogueLine: bli blo bla
+    DialogueLine: I think this works
   - CharacterSO: {fileID: 11400000, guid: c63b18d297c1e564a89dba5ed2d9e658, type: 2}
-    DialogueLine: calabaza calabaza cada uno para su casa
+    DialogueLine: I'm very excited about the ceremony, I should hand them away
