@@ -12,6 +12,7 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
+    public AudioSource MoveSound;
     private Animator animator;
     private bool isCurrentlyFrozen = false;
 
@@ -49,11 +50,19 @@ public class PlayerMove : MonoBehaviour
     {
         //Read value from control
         moveInput = value.ReadValue<Vector2>();
+        if (!MoveSound.isPlaying)
+        {
+            MoveSound.Play();
+        }
     }
 
     private void OnMoveCanceled(InputAction.CallbackContext value)
     {
         moveInput = Vector2.zero;
+        if (MoveSound.isPlaying)
+        {
+            MoveSound.Stop();
+        }
     }
 
     public void OnEnable()

@@ -11,6 +11,7 @@ public class CarController : MonoBehaviour
     private float accelerationInput = 0;
     private float steeringInput = 0;
     private Rigidbody2D rb;
+    public AudioSource MoveSound;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
@@ -56,11 +57,19 @@ public class CarController : MonoBehaviour
         Vector2 input = context.ReadValue<Vector2>();
         accelerationInput = input.y;
         steeringInput = input.x;
+        if (!MoveSound.isPlaying)
+        {
+            MoveSound.Play();
+        }
 
         if (context.canceled)
         {
             accelerationInput = 0f;
             steeringInput = 0f;
+            if (MoveSound.isPlaying)
+            {
+                MoveSound.Stop();
+            }
         }
     }
 }
