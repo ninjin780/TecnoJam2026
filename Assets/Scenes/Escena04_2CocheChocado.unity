@@ -1198,7 +1198,7 @@ GameObject:
   - component: {fileID: 888551293}
   - component: {fileID: 888551292}
   m_Layer: 0
-  m_Name: Ilustracion_sin_titulo_0
+  m_Name: screame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
