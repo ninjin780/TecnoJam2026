@@ -9,6 +9,8 @@ public class SceneTransition : MonoBehaviour
     public static SceneTransition Instance;
     [SerializeField] private Image image;
     [SerializeField] private float duration;
+    [SerializeField] private AudioClip music;
+    private AudioSource audioSource;
 
     private void Awake()
     {
@@ -21,6 +23,13 @@ public class SceneTransition : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+    private void Start()
+    {
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.clip = music;
+        audioSource.Play();
     }
 
     private void OnEnable()
